@@ -8,7 +8,7 @@ import android.widget.Button;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
-
+// <uses-permission android:name="android.permission.SEND_SMS" />
 public class MainActivity extends AppCompatActivity {
     Button sendBtn;
     Button btnSendEmail;
